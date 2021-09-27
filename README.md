@@ -11,7 +11,7 @@ The school board had reason to suspect that there may be academic dishonesty tak
 
 # Results of Analysis
 ## District Summary Analysis
-After analysing the District summaries with and without the Thomas High Schools 9th grade scores, the differences are less then half a percent in all categories. Removing the scores did not reveal any significant change to indicate dishonesty. However, when reviewing Thomas High scores without the 9th graders the school still performs above the average for all schools. 
+After analyzing the District summaries with and without the Thomas High Schools 9th grade scores, the differences are less then half a percent in all categories. Removing the scores did not reveal any significant change to indicate dishonesty. However, when reviewing Thomas High scores without the 9th graders the school still performs above the average for all schools. 
 
 All Scores
 
