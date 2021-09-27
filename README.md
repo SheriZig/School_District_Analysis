@@ -98,5 +98,5 @@ School Type without Thomas High School 9th Graders
 
 ![TypeNO_THS](https://user-images.githubusercontent.com/88912539/134844244-37ef9d5d-3828-4e78-8d82-8b60401fb935.png)
 
-#Summary 
+# Summary 
 In summary there were no significant differences in the number of students passing and the average scores for reading and math based on the 9th grade class at Thomas High School. Although the school board had reason to believe there was academic dishonesty, a through evaluation of the requested metrics did not support a conclusion of academic dishonesty. 
