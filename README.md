@@ -27,7 +27,7 @@ Thomas High Schol 9th graders removed
 
 
 
-# School Summary Analysis 
+## School Summary Analysis 
 Evaluating the ranking of the top five schools in the district, Thomas High School remained in second place with and without the 9th grade scores. It is noteworthy that when comparing the metrics, the precision had to be expanded to display tenths to make any change visible. Based on whole numbers there was no change at all.  
 
 
@@ -40,11 +40,33 @@ Top 5 without Thomas High School 9th Graders
 
 ![SchoolSummaryNoTHS](https://user-images.githubusercontent.com/88912539/134842160-e3145ac6-9ff5-43b2-a3d0-6d03d8260ada.png)
 
-# Relative Math and Reading Analysis
-Additional analysis was conducted to compare all 9th grade scores for the district with and without Thomas High School. The results indicated that with all 9th graders in the district the average math score was 78.93%. Removing the Thomas High School 9th grader return a result of 78.73% resulting in a .2% change. 
+## Relative Math and Reading Analysis
+Additional analysis was conducted to compare all 9th grade scores for the district with and without Thomas High School. The results indicated that with all 9th graders in the district the average math score was 78.93%. Removing the Thomas High School 9th grader return a result of 78.73% resulting in a .2% change. Conducting the same analysis on Reading score revealed all score resulted in 81.91% and after removing Thomas High School the score was 81.83%
 
+All 9th grade average Math
+```
+all_ninth_grade_wTHS = ninth_graders.mean()["math_score"]
+print(all_ninth_grade_wTHS)
+```
+78.93565918653576
 
+9th grade average Math without Thomas High School
+```
+all_ninth_grade_woTHS_math = ninth_graders.mean()["math_score"]
+print(all_ninth_grade_woTHS_math)
+```
+78.73965469991778
 
+All 9th grade average Reading
+```
+all_ninth_grade_wTHS_reading = ninth_graders.mean()["reading_score"]
+print(all_ninth_grade_wTHS_reading)
+```
+81.91435834502104
 
-
-
+9th grade average Reading without Thomas High School
+```
+all_ninth_grade_woTHS_reading = ninth_graders.mean()["reading_score"]
+print(all_ninth_grade_woTHS_reading)
+```
+81.83794646935233
