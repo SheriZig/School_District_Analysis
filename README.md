@@ -1,2 +1,50 @@
 # School_District_Analysis
-Module 4 School District Analysis Anaconda/python/pandas
+The school board had reason to suspect that there may be academic dishonesty taking place in the 9th grade class of Thomas High School. Specifically in the areas of reading and math. Due to these concerns the unit was tasked with providing an comparative anaysis between the scores with and without the Thomas High School 9th graders. After the analysis, a written report is to be provded to demonstrate how these changes affect the overall analysis.  
+### The following key metrics were analyzed:
+- Number of students
+- Number of schools
+- Total budgets
+- Average math and reading scores
+- Percentage of students who passed math and reading
+- Overall passing percentage combining math and reading
+
+
+# Results of Analysis
+## District Summary Analysis
+After analysing the District summaries with and without the Thomas High Schools 9th grade scores, the differences are less then half a percent in all categories. Removing the scores did not reveal any significant change to indicate dishonesty. However, when reviewing Thomas High scores without the 9th graders the school still performs above the average for all schools. 
+
+All Scores
+
+![DistictSummaryALL](https://user-images.githubusercontent.com/88912539/134841166-ce7fb6ef-0d35-46b3-a910-33730e903c23.png)
+
+Scores with Thomas High School 9th graders removed
+
+![DistrictSummaryNO_THS](https://user-images.githubusercontent.com/88912539/134841210-93715c19-6c92-41f0-8239-b95eb0ff6594.png)
+
+Thomas High Schol 9th graders removed
+
+![DistrictSummaryTHSOnly](https://user-images.githubusercontent.com/88912539/134841756-0141bb30-9690-4544-b3b7-5b69b9d8ea21.png)
+
+
+
+# School Summary Analysis 
+Evaluating the ranking of the top five schools in the district, Thomas High School remained in second place with and without the 9th grade scores. It is noteworthy that when comparing the metrics, the precision had to be expanded to display tenths to make any change visible. Based on whole numbers there was no change at all.  
+
+
+Top 5 All Scores
+
+![SchoolSummaryAll](https://user-images.githubusercontent.com/88912539/134842147-149347f3-3c78-40b1-980f-0f749b710eb4.png)
+
+
+Top 5 without Thomas High School 9th Graders 
+
+![SchoolSummaryNoTHS](https://user-images.githubusercontent.com/88912539/134842160-e3145ac6-9ff5-43b2-a3d0-6d03d8260ada.png)
+
+# Relative Math and Reading Analysis
+Additional analysis was conducted to compare all 9th grade scores for the district with and without Thomas High School. The results indicated that with all 9th graders in the district the average math score was 78.93%. Removing the Thomas High School 9th grader return a result of 78.73% resulting in a .2% change. 
+
+
+
+
+
+
