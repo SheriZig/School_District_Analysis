@@ -26,7 +26,6 @@ Thomas High Schol 9th graders removed
 ![DistrictSummaryTHSOnly](https://user-images.githubusercontent.com/88912539/134841756-0141bb30-9690-4544-b3b7-5b69b9d8ea21.png)
 
 
-
 ## School Summary Analysis 
 Evaluating the ranking of the top five schools in the district, Thomas High School remained in second place with and without the 9th grade scores. It is noteworthy that when comparing the metrics, the precision had to be expanded to display tenths to make any change visible. Based on whole numbers there was no change at all.  
 
@@ -70,3 +69,28 @@ all_ninth_grade_woTHS_reading = ninth_graders.mean()["reading_score"]
 print(all_ninth_grade_woTHS_reading)
 ```
 81.83794646935233
+
+## School Spending Analysis 
+School spending all scores
+![SpendingAll](https://user-images.githubusercontent.com/88912539/134843937-79e0982d-dcf0-4d41-83f6-63a742f3a8a9.png)
+
+School spending without Thomas High School 9th Graders 
+![SpendingNO_THS](https://user-images.githubusercontent.com/88912539/134843956-d4649d07-412b-4d01-badc-665b7c1c805d.png)
+
+## School Size Analysis 
+School size all scores
+![SpendingAll](https://user-images.githubusercontent.com/88912539/134844069-5fe7a5a5-cdd3-40f4-a5ac-9bf94e54cc14.png)
+
+School size without Thomas High School 9th Graders 
+![SizeNO_THS](https://user-images.githubusercontent.com/88912539/134844103-93441ad3-a982-4ebb-9cbb-13ec36a775b3.png)
+
+## School Type Analysis 
+
+School Type all scores
+![TypeALL](https://user-images.githubusercontent.com/88912539/134844228-2f20bba3-244a-4c05-9259-10ad5d29b11b.png)
+
+School Type without Thomas High School 9th Graders 
+![TypeNO_THS](https://user-images.githubusercontent.com/88912539/134844244-37ef9d5d-3828-4e78-8d82-8b60401fb935.png)
+
+#Summary 
+In summary there were no significant differences in the number of students passing and the average scores for reading and math based on the 9th grade class at Thomas High School. Although the school board had reason to believe there was academic dishonesty, a through evaluation of the requested metrics did not support a conclusion of academic dishonesty. 
