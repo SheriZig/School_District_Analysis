@@ -82,7 +82,8 @@ School spending without Thomas High School 9th Graders
 ## School Size Analysis 
 School size all scores
 
-![SpendingAll](https://user-images.githubusercontent.com/88912539/134844069-5fe7a5a5-cdd3-40f4-a5ac-9bf94e54cc14.png)
+![SizeALL](https://user-images.githubusercontent.com/88912539/135060990-8a5800f8-6cd2-4d51-9a1e-38f5991a25f4.png)
+
 
 School size without Thomas High School 9th Graders 
 
